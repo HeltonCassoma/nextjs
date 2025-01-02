@@ -1,0 +1,77 @@
+[
+    {
+      "title": "HTML",
+      "image": "/images/html-logo.png",
+      "description": "Linguagem de marcação usada para estruturar conteúdo na web.",
+      "rating": 5
+    },
+    {
+      "title": "CSS",
+      "image": "/images/css-logo.png",
+      "description": "Estiliza páginas web para torná-las atraentes e responsivas.",
+      "rating": 4
+    },
+    {
+      "title": "JavaScript",
+      "image": "/images/javascript-logo.png",
+      "description": "Linguagem de programação para interatividade em páginas web.",
+      "rating": 5
+    },
+
+    {
+        "title": "JSON",
+      "image": "/images/Json-logo.png",
+      "description": ".",
+      "rating": 5
+    },
+
+    {
+        "title": "API RESTful",
+      "image": "/images/APIRESTful-logo.png",
+      "description": ".",
+      "rating": 5
+    },
+    {
+        "title": "Swagger",
+      "image": "/images/swagger-logo.png",
+      "description": ".",
+      "rating": 5
+    },
+    {
+        "title": "GitHub",
+      "image": "/images/github-logo.png",
+      "description": ".",
+      "rating": 5
+    },
+    {
+        "title": "Codespaces",
+      "image": "/images/codespaces-logo.png",
+      "description": ".",
+      "rating": 5
+    },
+    {
+        "title": "GitHub Pages",
+      "image": "/images/githubpages-logo.png",
+      "description": ".",
+      "rating": 5
+    },
+    {
+        "title": "React.js",
+      "image": "/images/react-logo.png",
+      "description": ".",
+      "rating": 5
+    },
+    {
+        "title": "Next.js",
+      "image": "/images/next-logo.png",
+      "description": ".",
+      "rating": 5
+    },
+    {
+        "title": "Vercel",
+      "image": "/images/vercel-logo.png",
+      "description": ".",
+      "rating": 5
+    }
+  ]
+  
